@@ -1,0 +1,14 @@
+pytest
+wheel
+setuptools
+backports.zoneinfo
+pandas
+fastai
+transformers
+simpletransformers
+nltk
+spacy
+notebook
+jupyter
+ipywidgets
+gradio
